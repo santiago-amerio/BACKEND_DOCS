@@ -5,7 +5,7 @@ The User endpoint allows you to manage user accounts in your application.
 ## Get Users
 
 If `name ` isn't set retrieves a list of all users, if it's set it retrieves only the user matching the name.
-
+ 
 - Method: GET
 - Endpoint: `/user?name="user_name"`
 -   admin level: `2`
