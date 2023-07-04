@@ -1,0 +1,10 @@
+site_name: CORE API DOC
+nav:
+    - Home: index.md
+    - Self management: login.md
+    - /User: user.md
+    - /Category: category.md
+    - /Product: product.md
+theme:
+    name: material
+   
