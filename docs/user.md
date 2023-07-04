@@ -10,7 +10,7 @@ If `name ` isn't set retrieves a list of all users, if it's set it retrieves onl
 - Endpoint: `/user?name="user_name"`
 -   admin level: `2`
 - URL Parameters:
-    - `name` (optional): User name
+    - `name` (optional): User name 
 
 ## Create User
 
